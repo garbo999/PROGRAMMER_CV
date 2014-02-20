@@ -1,4 +1,8 @@
-Programmer CV: Gary Hess
+# Gary Hess
+
+## TECHNICAL SKILLS
+
+## EDUCATION
 
 Education: BS Electrical Engineering (summa cum laude) from North Carolina State University
 
