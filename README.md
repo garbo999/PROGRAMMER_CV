@@ -12,11 +12,11 @@ Ruby on Rails, Linux, Javascript, HTML5
 
 LaClaveciniste.Com -- I was given the design for a small site and rebuilt it using Rails and Bootstrap.
 
-Radiogetaway.Com -- I created the design and built this site using Rails and Bootstrap. 
+Radiogetaway.Com -- I created the design and built this site using Rails and Bootstrap. I learned how to use the Devise and Omniauth gems.
 
-TRB4 -- I partnered with a friend in a startup in the translation industry. We initially found an external company to code our webservice (a search engine for existing translations), then I took over the programming duties and rebuilt and finished the site using PHP and Oracle.
+TRB4 -- I partnered with a friend in a startup in the translation industry in San Francisco. We initially paid an external company to code our webservice (a search engine for existing translations), then I took over the programming duties and rebuilt and finished the site (now defunct) using PHP and Oracle.
 
-Estonian Spidering Project (https://ancient-hollows-2475.herokuapp.com/nounparents) -- The goal of this work in progress was to develop a Ruby class that would spider the website http://www.filosoft.ee/gene_et/ and save the data on the local server.
+Estonian Spidering Project (https://ancient-hollows-2475.herokuapp.com/nounparents) -- The goal of this work in progress was to develop a Ruby class that would spider the website http://www.filosoft.ee/gene_et/ and save the data on the local server. I am learning to use the MECHANIZE and PG_SEACH gems.
 
 ## EDUCATION
 
