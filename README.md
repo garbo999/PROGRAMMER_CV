@@ -1,8 +1,8 @@
 # Gary Hess
-github: garbo999
-linkedin: https://www.linkedin.com/pub/gary-hess/5/6b3/a88
-mobile: 58242626
-address: kreutzwaldi 22-19, tallinn 10147
+github: garbo999  
+linkedin: https://www.linkedin.com/pub/gary-hess/5/6b3/a88  
+mobile: 58242626  
+address: kreutzwaldi 22-19, tallinn 10147  
 email: garyhess999@gmail.com
 
 ## TECHNICAL SKILLS
@@ -10,11 +10,11 @@ Ruby on Rails, Linux, Javascript, HTML5
 
 ## PROJECTS
 
-LaClaveciniste.Com -- I was given a design of a small site and rebuilt it using Rails and Bootstrap.
+LaClaveciniste.Com -- I was given the design for a small site and rebuilt it using Rails and Bootstrap.
 
 Radiogetaway.Com -- I created the design and built this site using Rails and Bootstrap. 
 
-TRB4 -- I partnered with a friend in a startup in the translation industry. We initially found a company to build our website, then I took over the programming duties and rebuilt and finished the site using PHP and Oracle.
+TRB4 -- I partnered with a friend in a startup in the translation industry. We initially found an external company to code our webservice (a search engine for existing translations), then I took over the programming duties and rebuilt and finished the site using PHP and Oracle.
 
 Estonian Spidering Project (https://ancient-hollows-2475.herokuapp.com/nounparents) -- The goal of this work in progress was to develop a Ruby class that would spider the website http://www.filosoft.ee/gene_et/ and save the data on the local server.
 
